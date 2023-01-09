@@ -4,4 +4,4 @@ Use this repo as an example to use greensock animations if you are a Club Greens
 
 ## Support
 
-Repo created by team at (privjs.com)[https://privjs.com].
+Repo created by team at privjs.com](https://privjs.com).
